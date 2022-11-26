@@ -1,0 +1,147 @@
+body
+{
+    background-image: url(../images/fon.jpg);
+    font-size: 15px;
+    font-family: "Comic Sans MS", sans-serif;
+}
+div.form
+{
+    font-size: 15pt;
+    font-family: Georgia;
+}
+div.form input
+{
+    background-color: burlywood;
+    font-family: Georgia;
+    height: 30px;
+    width: 300px;
+    margin-bottom: 1px;
+    border: none;
+    border-radius: 5px;
+}
+div.form select
+{
+    background-color: burlywood;
+    font-family: Georgia;
+    height: 30px;
+    width: 300px;
+    margin-bottom: 1px;
+    border: none;
+    border-radius: 5px;
+}
+div.form textarea
+{
+    background-color: burlywood;
+    font-family: Georgia;
+    height: 200px;
+    width: 300px;
+    margin-bottom: 1px;
+    border: none;
+    border-radius: 5px;
+}
+div.button input
+{
+    width: 75px;
+    height: 50px;
+    background-color: azure;
+    color: darkblue;
+}
+.search
+{
+    margin-top: -2.3%;
+}
+.search input
+{
+    height: 40px;
+    width: 600px;
+    text-align: center;
+    font-size: 17pt;
+    font-family: Gabriola, fantasy;
+    border: 1px solid bisque;
+    border-radius: 3px;
+    background-color: aliceblue;
+    color: gray;
+}
+div#btn_srch
+{
+    margin-top: -2.5%;
+    margin-left: 41%;
+    position: relative;
+}
+div#btn_srch input
+{
+    width: 70px;
+    height: 40px;
+}
+div.link a
+{
+    font-family: Georgia;
+    text-decoration: none;
+    font-size: 13pt;
+    color: black;
+}
+div.links_1
+{
+    margin-top: 20%;
+}
+div.links_1 a
+{
+    padding: 25px;
+    font-family: "Comic Sans MS", sans-serif;
+    font-size: 20pt;
+    color: black;
+    text-decoration: none;
+}
+div.links a
+{
+    font-family: "Comic Sans MS", sans-serif;
+    font-size: 15pt;
+    color: black;
+    text-decoration: none;
+}
+table.mytable
+{
+    text-align: center;
+    background-color: aliceblue;
+    border: 2px solid black;
+    border-spacing: 20px;
+}
+table.mytable a
+{
+    text-decoration: none;
+    color: royalblue;
+}
+table.poster
+{
+    margin-top: 40px;
+    border-spacing: 20px;
+}
+table.poster a
+{
+    text-decoration: none;
+    font-family: "century gothic", Impact;
+    color: black;
+    font-size: 14pt;
+}
+div.phrases
+{
+    margin-top: 25%;
+    font-size: 25pt;
+    font-family: Georgia;
+}
+div.del_form
+{
+    margin-top: 20%;
+}
+div.del_form input
+{
+    text-align: center;
+    font-size: 30pt;
+    font-family: Gabriola, fantasy;
+    background-color: aliceblue;
+    color: gray;
+}
+#button input
+{
+    font-size: 22pt;
+}
